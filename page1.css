@@ -1,0 +1,48 @@
+.topheader.container{
+    background-color: royalblue;
+    
+}
+
+
+
+ul.flex {
+    display: flex;
+    
+}
+
+ul.flex li {
+    display: inline-block;
+    margin-left: 0px;
+    margin-top: 5px;
+    
+}
+
+.icons{
+    float: inline-start;
+    justify-content: space-around;
+    padding-right: 0em;
+
+
+}
+h1{
+    background-color: brown;
+    color: cornsilk;}
+li{
+    border-radius: 2px;
+    justify-content: space-between;
+}
+
+
+.NavBar-holder {
+    padding-top: 3px;
+    align-items: center;
+    /* margin-left: 12px; */
+    justify-content:right ;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+.card-header{
+    background-color: white;
+}

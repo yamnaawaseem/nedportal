@@ -1,0 +1,22 @@
+.card-header{
+    background-color: brown;
+    
+}
+h1{
+    color: cornsilk;}
+
+ h2{
+     background-color:cornsilk;
+}    
+
+.year{
+    justify-content: center;
+    align-content: center;
+
+}    
+
+
+.btn, .btn2{
+    
+    background-color: rgb(235, 70, 70);
+}

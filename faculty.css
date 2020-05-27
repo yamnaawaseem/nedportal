@@ -1,0 +1,33 @@
+.card-header{
+    background-color: brown;
+    
+}
+h1{
+    color: cornsilk;}
+
+
+
+.FC{
+    align-items: center;
+    /* margin-left: 400px; */
+}
+
+
+h2{
+    background-color:cornsilk;
+}
+
+.row no-gutters{
+    justify-content: center;
+    align-content: center;
+
+}
+.center{
+    justify-content: center;
+    align-content: center;
+}
+.xyz{
+    justify-content: center;
+    align-content: center;
+
+}
