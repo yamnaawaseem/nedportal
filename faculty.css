@@ -5,11 +5,15 @@
 h1{
     color: cornsilk;}
 
-
+h2{
+    background-color:cornsilk;
+    color: brown;
+}
 
 .FC{
     align-items: center;
     /* margin-left: 400px; */
+
 }
 
 
